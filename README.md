@@ -4,12 +4,12 @@ Welcome to the repository for the Mathematics of Sea Ice and Ice Sheets (MOSSI) 
 
 ## Overview
 
-The MOSSI 2024 Workshop focuses on advancing the understanding of mathematical models used to study sea ice and ice sheets. This online workshop will be held via Zoom on **November 22-23, 2024**. 
+The MOSSI 2024 Workshop focuses on advancing the understanding of mathematical models used to study sea ice and ice sheets. This online workshop will be held via Zoom on **November 29, 2024**. 
 
 ## Important Dates
 
-- **Workshop Date:** November 22-23, 2024
-- **Last Date for Abstract Submission:** November 1, 2024
+- **Workshop Date:** November 29, 2024
+- **Last Date for Abstract Submission:** November 24, 2024
 
 ## Abstract Submission
 
